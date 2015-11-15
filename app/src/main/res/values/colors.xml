@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="white_gray" type="color">#ffffffff</item>
+    <item name="white_blue" type="color">#ff00abea</item>
+    <item name="nav_seperator" type="color">#ff657178</item>
+    <item name="dashboard_topbar_bg" type="color">#ff09c477</item>
+    <item name="searchbar_text_color" type="color">#ff8c8c8c</item>
+    <item name="black_gray" type="color">#ff2f3942</item>
+    <item name="light_gray" type="color">#ff333e47</item>
+    <item name="thick_gray" type="color">#ff272f35</item>4a5055
+    <item name="inactive_font" type="color">#ff4a5055</item>
+    <item name="music_player_bg" type="color">#ff22292d</item>
+    <item name="yellow_bg" type="color">#fff1c628</item>
+    <item name="orange_bg" type="color">#fffa6045</item>
+</resources>

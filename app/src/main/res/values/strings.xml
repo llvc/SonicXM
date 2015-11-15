@@ -1,0 +1,72 @@
+<resources>
+    <string name="app_name">SonicXM</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    
+    <!-- login -->
+    <string name="login">Sign in</string>
+
+    <string name="username_placefolder">Username or email address</string>
+    <string name="password_placefolder">Password</string>
+
+    <string name="forgot_password">Forgot password? </string>
+    <string name="tap_here">Tap here</string>
+
+    <string name="or">Or</string>
+
+    <string name="signin_facebook">Sign in with Facebook</string>
+    <string name="signin_google">Sign in with Google plus</string>
+
+    <string name="already_signed">Already signed in? </string>
+    <string name="signup">Sign Up</string>
+
+    <string name="sign_in">Sign in</string>
+
+    <!-- welcome view -->
+    <string name="switch_account">Switch accounts</string>
+    <string name="welcome_back">Welcome back!</string>
+    <string name="continue_as">Continue as</string>
+
+    <!-- registration -->
+    <string name="registration">Registration</string>
+    <string name="next_step">Next step</string>
+    <string name="create_account">Create account</string>
+
+    <string name="phone_number">Phone number</string>
+    
+    <string name="validation">Validation</string>
+    <string name="required">Required</string>
+    <string name="enter_phonenumber">Enter your phone number to receive</string>
+    <string name="validation_code">a validation code</string>
+
+    <string name="full_name">Full name</string>
+    <string name="email_address">Email address</string>
+    <string name="confirm_password">Confirm password</string>
+    
+    <string name="by_signingup">By signing up. I accept</string>
+    <string name="terms_service">Terms of Services</string>
+    
+    <string name="connect_facebook">Connect with Facebook</string>
+
+    <string name="type_name">Type your User name</string>
+
+    <!-- Outside menu -->
+    <string name="navigation">Navigation</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="activity">Activity</string>
+    <string name="notifications">Notifications</string>
+    <string name="messages">Messages</string>
+    <string name="profile">Profile</string>
+    <string name="invite_friend">Invite Friends</string>
+    <string name="logout">Logout</string>
+
+    <!-- dashboard -->
+    <string name="explore">Explore</string>
+    <string name="search_photo">Search photos...</string>
+
+    <!-- track list -->
+    <string name="music_player">Music Player</string>
+
+    <string name="unfollow">Unfollow</string>
+</resources>

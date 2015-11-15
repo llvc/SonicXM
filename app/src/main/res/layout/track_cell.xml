@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:focusableInTouchMode="false"
+    android:descendantFocusability="blocksDescendants"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:padding="@dimen/login_padding">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="Medium Text"
+            android:id="@+id/trackTitle"
+            android:layout_weight="1"
+            android:gravity="center_vertical"
+            android:textSize="@dimen/album_small_font_size"
+            android:textColor="@color/white_gray" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="Medium Text"
+            android:id="@+id/artist"
+            android:layout_weight="1"
+            android:gravity="center_vertical"
+            android:textSize="@dimen/album_small_font_size"
+            android:textColor="@color/inactive_font" />
+    </LinearLayout>
+
+    <ImageButton
+        android:layout_width="@dimen/closebutton_size"
+        android:layout_height="@dimen/closebutton_size"
+        android:id="@+id/downloadButton"
+        android:layout_gravity="center_vertical"
+        android:focusableInTouchMode="false"
+        android:paddingLeft="@dimen/login_padding"
+        android:background="@drawable/blue_download"
+        android:layout_marginRight="@dimen/login_padding" />
+
+    <ImageButton
+        android:layout_width="@dimen/closebutton_size"
+        android:layout_height="@dimen/closebutton_size"
+        android:id="@+id/plusButton"
+        android:focusableInTouchMode="false"
+        android:layout_gravity="center_vertical"
+        android:background="@drawable/inactive_plus"
+        android:layout_marginRight="@dimen/login_padding" />
+</LinearLayout>
